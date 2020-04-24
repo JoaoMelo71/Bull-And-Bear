@@ -160,9 +160,41 @@
 </item>
 
 <item>
-<title>O Primo Rico (BR)</title>
+<title>Fernando Ulrich (BR)</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/user/thigas/</jsonrpc>
-<thumbnail>https://yt3.ggpht.com/a/AATXAJxAtRXL0KdRtb_SLE7ew2S4dHf4x2UM_YKm6A=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCLJkh3QjHsLtK0LZFd28oGg/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJz_hL8jBOxdjydhHzc0fcIOVUTB3vBObD88IQ=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>Trade for Life com Leonardo Nunes (BR)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/zion45a/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJyRT6o720xE-we12hFhk8lJLN7gShbRf4ozFg=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>Fausto Botelho (BR)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/comstop/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJzJUt50_m8lvC7TCna2BuCh8Zp6QKZbj3c3yw=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>Eu Quero Investir (BR)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/IndiceInvestimentos/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJxGiRjuS9stFVgVoeMaFFAjQvM8uBNusTlw3w=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>Eu Quero Investir (BR)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/IndiceInvestimentos/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJxGiRjuS9stFVgVoeMaFFAjQvM8uBNusTlw3w=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
 </item>
