@@ -58,13 +58,6 @@
 </channels>
 
 
-<channels>
-<channel>
-<name>[COLOR deepskyblue]Bloomberg (GB)[/COLOR]</name>
-<thumbnail>https://yext-prod.s3.amazonaws.com/template_instance_uploads/BIpoFZVTY6sqMFJC9fG7_bloomberg-tv-logo-o.jpg</thumbnail>
-<link>http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8</link>
-<fanart>https://kareliyanews.ru/wp-content/uploads/2018/01/maxresdefault-1-2-1024x576-1.jpg</fanart>
-<info>
-[COLOR peru] - Bloomberg TV- [/COLOR]</info>
-</channel>
-</channels>
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://yext-prod.s3.amazonaws.com/template_instance_uploads/BIpoFZVTY6sqMFJC9fG7_bloomberg-tv-logo-o.jpg", Bloomberg (GB)
+http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
