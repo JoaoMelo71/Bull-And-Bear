@@ -2,7 +2,7 @@
 <channel>
 <name>Olhar Digital (BR)</name>
 <thumbnail>https://yt3.ggpht.com/a/AATXAJxVuUb_N-zp5NGfYKVopZiNxePekufBpMbMaA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
-<jsonrpc>Plugin://plugin.video.youtube/channel/UCGV72aVJuWP0QPNGH4YgIww/</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCGV72aVJuWP0QPNGH4YgIww/?page=0</jsonrpc>
 </channel>
 </channels>
 
@@ -10,7 +10,7 @@
 <channel>
 <name>TecMundo (BR)</name>
 <thumbnail>https://yt3.ggpht.com/a/AATXAJz5J9mSUjBS1X7mbdH1K1POMNPuKzepYlMqmA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
-<jsonrpc>Plugin://plugin.video.youtube/user/baixaki/</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/user/baixaki/?page=0</jsonrpc>
 </channel>
 </channels>
 
@@ -18,6 +18,6 @@
 <channel>
 <name>TecMundo (BR)</name>
 <thumbnail>https://yt3.ggpht.com/a/AATXAJz5J9mSUjBS1X7mbdH1K1POMNPuKzepYlMqmA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
-<jsonrpc>Plugin://plugin.video.youtube/user/baixaki/</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/user/baixaki/?page=0</jsonrpc>
 </channel>
 </channels>
