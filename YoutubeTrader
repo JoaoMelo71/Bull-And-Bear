@@ -31,9 +31,18 @@
 </item>
 
 <item>
-<title>EmprendeAprendiendo (ES)</title>
+<title>La Bolsa para principiantes (ES)</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/channel/UCyM-2pRapEv6V2q7UNO9icg/</jsonrpc>
-<thumbnail>https://yt3.ggpht.com/a/AATXAJzFJtgZ-_4qisDRVjfndijH_3weXBE8EljAIQ=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCK3viG6DcbeiljVErVo5RwA/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJwUyWvf1IIMZHRGiR54UMMoAxY_lsVj9_A_WA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+
+<item>
+<title>La Bolsa para principiantes (ES)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCK3viG6DcbeiljVErVo5RwA/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJwUyWvf1IIMZHRGiR54UMMoAxY_lsVj9_A_WA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
 </item>
