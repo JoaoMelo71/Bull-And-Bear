@@ -192,9 +192,49 @@
 </item>
 
 <item>
-<title>Eu Quero Investir (BR)</title>
+<title>Trabajar Desde Casa (ES)</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/user/IndiceInvestimentos/</jsonrpc>
-<thumbnail>https://yt3.ggpht.com/a/AATXAJxGiRjuS9stFVgVoeMaFFAjQvM8uBNusTlw3w=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/user/trabajardesdecasasi/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJw8Mh06lZugoZComPPjE10S6RBO8aiaHXADGw=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>Arte de invertir (ES)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC-yJ1V3fN75A4dlR6dgRgEg/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJy3dKzhFd67LhluKulE-kSwQvpg8-40X1HziQ=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>RICARD H.C (ES)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCmo672EkiQSt26HI8ZKMp9Q/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJxQe3qOqQ9D7X8dSQijNiCsL6E1jTII4tte6g=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>Bernardo Garcia Finanzas Personales (ES)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCA2_B_86jWZ5UYB0hMnsMBg/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJys7NjgcxyrPmdS0Afh8C7xmy2hv-q1T3IJCA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>Aprender a Invertir con Alberto Horche (ES)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCAZSeZ5NwyV-oDiJLB3alVQ/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJxMWyOAP5_nd0x6SoVt1OsDA_Xf7OnGmVJCAw=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>Aprender a Invertir con Alberto Horche (ES)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCAZSeZ5NwyV-oDiJLB3alVQ/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJxMWyOAP5_nd0x6SoVt1OsDA_Xf7OnGmVJCAw=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
 </item>
