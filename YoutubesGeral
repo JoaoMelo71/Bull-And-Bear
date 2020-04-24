@@ -39,9 +39,73 @@
 </item>
 
 <item>
-<title>Manual do Mundo (BR)</title>
+<title>Nuno Agonia (PT)</title>
 <link>ignoreme</link>
-<thumbnail>https://yt3.ggpht.com/a/AATXAJzYNGf-2XPDp48lgDf8LGxu6wbBteELYMqdFA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
-<jsonrpc>Plugin://plugin.video.youtube/user/iberethenorio/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJyTuPMyHMWm-hr-ZKxoqBr30G6EAk73YSpdYw=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/user/seemeetube/</jsonrpc>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+</item>
+
+<item>
+<title>Bernardo Almeida (PT)</title>
+<link>ignoreme</link>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJwCcl5DyPSmoxoKDORLjYjncIbLQI022ZT-sA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/user/listareproducaolagos/</jsonrpc>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+</item>
+
+<item>
+<title>4gnews (PT)</title>
+<link>ignoreme</link>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJy9nN8BE6uRYR7eZ6C7E_4seEN3hm07bO2tmg=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/user/4gnews/</jsonrpc>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+</item>
+
+<item>
+<title>Roberto Jorge (PT)</title>
+<link>ignoreme</link>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJzau5QvrdY9LWiWFYd1D1398aBjNH8nnqEwNg=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCKla8sNVBGbS9RdEIZmA1DQ/</jsonrpc>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+</item>
+
+<item>
+<title>Carlos Correia (PT)</title>
+<link>ignoreme</link>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJzILxE9Uqv2Hvg_edStsR9S2dcNBBQNnjcwqQ=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCnxZhlqjYfEA-pT51lDC-xA/</jsonrpc>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+</item>
+
+<item>
+<title>Tiago Ramos (PT)</title>
+<link>ignoreme</link>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJwxpUpMNLIKn6GULMCcaCAI3Vy7BJUX9GHlLA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/user/TheOpinionPT/</jsonrpc>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+</item>
+
+<item>
+<title>Clipset (PT)</title>
+<link>ignoreme</link>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJw8Bmv_1gvT2Zu7Zc6thBLpa_nzpXCKlOS-jw=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/user/clipsetvideo/</jsonrpc>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+</item>
+
+<item>
+<title>Maluco Beleza (PT)</title>
+<link>ignoreme</link>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJzSXDG10eoXy5194vLfyqG9QfkagzzlaDbSCg=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/user/cabaretdacoxa/</jsonrpc>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+</item>
+
+<item>
+<title>Maluco Beleza (PT)</title>
+<link>ignoreme</link>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJzSXDG10eoXy5194vLfyqG9QfkagzzlaDbSCg=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/user/cabaretdacoxa/</jsonrpc>
 <fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
 </item>
