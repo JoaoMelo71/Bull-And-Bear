@@ -1,17 +1,20 @@
 <item>
 <title>Olhar Digital (BR)</title>
 <thumbnail>https://yt3.ggpht.com/a/AATXAJxVuUb_N-zp5NGfYKVopZiNxePekufBpMbMaA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
-<jsonrpc>Plugin://plugin.video.youtube/channel/UCGV72aVJuWP0QPNGH4YgIww/?page=0</jsonrpc>
-</item>
-
-<item>
-<title>TecMundo (BR)</title>
-<thumbnail>https://yt3.ggpht.com/a/AATXAJz5J9mSUjBS1X7mbdH1K1POMNPuKzepYlMqmA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
-<jsonrpc>Plugin://plugin.video.youtube/user/baixaki/?page=0</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCGV72aVJuWP0QPNGH4YgIww/</jsonrpc>
+<fanart>ignoreme</fanart>
 </item>
 
 <item>
 <title>TecMundo (BR)</title>
 <thumbnail>https://yt3.ggpht.com/a/AATXAJz5J9mSUjBS1X7mbdH1K1POMNPuKzepYlMqmA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <jsonrpc>Plugin://plugin.video.youtube/user/baixaki/</jsonrpc>
+<fanart>ignoreme</fanart>
+</item>
+
+<item>
+<title>TecMundo (BR)</title>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJz5J9mSUjBS1X7mbdH1K1POMNPuKzepYlMqmA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/user/baixaki/</jsonrpc>
+<fanart>ignoreme</fanart>
 </item>
