@@ -58,6 +58,6 @@
 </channels>
 
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://yext-prod.s3.amazonaws.com/template_instance_uploads/BIpoFZVTY6sqMFJC9fG7_bloomberg-tv-logo-o.jpg", Bloomberg (GB)
-http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
+<item>
+<link>http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8?attachment=true</link>
+</item>
