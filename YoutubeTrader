@@ -120,9 +120,33 @@
 </item>
 
 <item>
-<title>Workolic (PT)</title>
+<title>Finanças com JP (PT)</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/channel/UC5fJq7qrKG5TUILxOe1P9Pg/</jsonrpc>
-<thumbnail>https://yt3.ggpht.com/a/AATXAJwvkD_n3JD-43JgPCDokjFD1qTv-T4demfPkg=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCxmWg83Z812vp3RVDIdx8wg/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJwIX1TSE8opyh34yz-JFbRXEAk03D4EQAXrvw=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>Tradeable (PT)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCGzq095-n2_0CWL4TgwWU7Q/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJzfTJpaQ0z4WW2G6wsjB2dQ9CPXBoJmYl8Viw=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>Aprender a Investir (PT)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCR8TCqcAW5K188jlEdowYFA/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJzF6TZF9moKCmjX4ptBzRsDBEydUUTyEhDu3g=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>Aprender a Investir (PT)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCR8TCqcAW5K188jlEdowYFA/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJzF6TZF9moKCmjX4ptBzRsDBEydUUTyEhDu3g=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
 </item>
