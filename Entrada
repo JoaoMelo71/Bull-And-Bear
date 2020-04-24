@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>Rádios</name>
+<name>[COLOR red]Rádios[/COLOR]</name>
 <thumbnail>https://brain-images-ssl.cdn.dixons.com/5/6/10115665/l_10115665_008.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JoaoMelo71/Hidra/master/Radios.xml</externallink>
 <fanart>https://akm-img-a-in.tosshub.com/indiatoday/anniv-42-things-dec25-18_647_121517051142.jpg</fanart>
@@ -12,11 +12,25 @@
 
 <channels>
 <channel>
-<name>Rádios</name>
-<thumbnail>https://brain-images-ssl.cdn.dixons.com/5/6/10115665/l_10115665_008.jpg</thumbnail>
+<name>[COLOR red]Youtube[/COLOR]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/a8/YouTube_Square.png</thumbnail>
+
 <externallink>https://raw.githubusercontent.com/JoaoMelo71/Hidra/master/Radios.xml</externallink>
-<fanart>https://akm-img-a-in.tosshub.com/indiatoday/anniv-42-things-dec25-18_647_121517051142.jpg</fanart>
+
+<fanart>https://img.ibxk.com.br/2017/10/06/06161753969300.jpg</fanart>
 <info>
-[COLOR peru] - As Melhores Rádios - [/COLOR]</info>
+[COLOR peru] - Youtubers a Seguir - [/COLOR]</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
+<name>[COLOR red]TDT España[/COLOR]</name>
+<thumbnail>https://images-eu.ssl-images-amazon.com/images/I/71dISjt6x5L.png</thumbnail>
+<externallink>http://www.tdtchannels.com/lists/channels.m3u</externallink>
+<fanart></fanart>
+<info>
+[COLOR peru] - Canais de TDT de Espanha - [/COLOR]</info>
 </channel>
 </channels>
