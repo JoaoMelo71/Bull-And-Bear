@@ -15,9 +15,33 @@
 </item>
 
 <item>
-<title>TecMundo (BR)</title>
+<title>El Futuro Es Apasionante de Vodafone (ES)</title>
 <link>ignoreme</link>
-<thumbnail>https://yt3.ggpht.com/a/AATXAJz5J9mSUjBS1X7mbdH1K1POMNPuKzepYlMqmA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
-<jsonrpc>Plugin://plugin.video.youtube/user/baixaki/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJyxV0SHLv8Eqm0HcXnxoW_X6lriUPLIkbh59g=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC_PZITA0uBZRC5E1fCrBVXQ/</jsonrpc>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+</item>
+
+<item>
+<title>DW Documental (ES)</title>
+<link>ignoreme</link>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJxR8Ccb_EyBEthDPXe8xbr7PDcScI6f8Z7Hog=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCQ1GpKa15ulyoQuxz7H4rng/</jsonrpc>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+</item>
+
+<item>
+<title>Manual do Mundo (BR)</title>
+<link>ignoreme</link>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJzYNGf-2XPDp48lgDf8LGxu6wbBteELYMqdFA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/user/iberethenorio/</jsonrpc>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+</item>
+
+<item>
+<title>Manual do Mundo (BR)</title>
+<link>ignoreme</link>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJzYNGf-2XPDp48lgDf8LGxu6wbBteELYMqdFA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/user/iberethenorio/</jsonrpc>
 <fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
 </item>
