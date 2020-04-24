@@ -103,9 +103,73 @@
 </item>
 
 <item>
-<title>Maluco Beleza (PT)</title>
+<title>Bumba na Fofinha (PT)</title>
 <link>ignoreme</link>
-<thumbnail>https://yt3.ggpht.com/a/AATXAJzSXDG10eoXy5194vLfyqG9QfkagzzlaDbSCg=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
-<jsonrpc>Plugin://plugin.video.youtube/user/cabaretdacoxa/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJxw4D9Ow3xiw_CoDZ75PGLDzpGtNq7bIkbNQQ=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCpffV46kIAQVVBp-htc1iUw/</jsonrpc>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+</item>
+
+<item>
+<title>Diogo Bataguas (PT)</title>
+<link>ignoreme</link>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJzWvkqvAgB7OgA2EGgYU5WOhwQFzDGAzwMGPA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/user/BataguasD/</jsonrpc>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+</item>
+
+<item>
+<title>Fernando Rocha Pi100Pe (PT)</title>
+<link>ignoreme</link>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJwIm_dOnyCLj6WfxCaWLsrOXDvy7CCEnbEhrQ=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/user/rooooooocha/</jsonrpc>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+</item>
+
+<item>
+<title>Môce dum Cabréste (PT)</title>
+<link>ignoreme</link>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJyuFyreNgTt4--6vmOzFpqg3k6sjZl0W_r5fA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/user/MoceDumCabreste/</jsonrpc>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+</item>
+
+<item>
+<title>Rádio Comercial (PT)</title>
+<link>ignoreme</link>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJx38BwKtsCMqyegpmOpg4peYlSzHEIxsSSECg=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/user/Radiocomercial/</jsonrpc>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+</item>
+
+<item>
+<title>Rádio Renascença (PT)</title>
+<link>ignoreme</link>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJyFnbCYBueirHWN-SyEY9ZVVA27nnVzXS-fGw=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/user/renascencavmais/</jsonrpc>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+</item>
+
+<item>
+<title>Prova Oral (PT)</title>
+<link>ignoreme</link>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJxOQgkbjtEI0XaGXg3j12oURqAro5lc0fUs4g=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCdWMtcRxIVv3g1OHIPLFvcQ/</jsonrpc>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+</item>
+
+<item>
+<title>Canal Q (PT)</title>
+<link>ignoreme</link>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJwj-zmL04ch2gEQpmTUMOxpycyCgEFloqFbNw=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/user/CanalQ15/</jsonrpc>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+</item>
+
+<item>
+<title>RedeTV (BR)</title>
+<link>ignoreme</link>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJw4KiD0wlGSTdao_LMjnAGl-VmLyiY7kfU-7g=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/user/RedeTVhdBrasil/</jsonrpc>
 <fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
 </item>
