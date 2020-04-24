@@ -23,9 +23,17 @@
 </item>
 
 <item>
-<title>Banco de Investimento Global (PT)</title>
+<title>EmprendeAprendiendo (ES)</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/user/canalbancobig/</jsonrpc>
-<thumbnail>https://yt3.ggpht.com/a/AATXAJxuEjrxrkCoRc5o73UATZkToL4K-2H5fWp51Q=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCyM-2pRapEv6V2q7UNO9icg/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJzFJtgZ-_4qisDRVjfndijH_3weXBE8EljAIQ=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>EmprendeAprendiendo (ES)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCyM-2pRapEv6V2q7UNO9icg/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJzFJtgZ-_4qisDRVjfndijH_3weXBE8EljAIQ=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
 </item>
