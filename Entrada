@@ -24,6 +24,18 @@
 
 <channels>
 <channel>
+<name>[COLOR deepskyblue]Youtubers Gerais[/COLOR]</name>
+<thumbnail>https://telegrafi.com/wp-content/uploads/2018/03/netflix-3.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/JoaoMelo71/Bull-And-Bear/master/YoutubesGeral</externallink>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+<info>
+[COLOR peru] - Youtubers a Seguir - [/COLOR]</info>
+</channel>
+</channels>
+
+
+<channels>
+<channel>
 <name>[COLOR deepskyblue]TDT España[/COLOR]</name>
 <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/71dISjt6x5L.png</thumbnail>
 <externallink>http://www.tdtchannels.com/lists/channels.m3u</externallink>
