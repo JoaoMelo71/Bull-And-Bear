@@ -13,5 +13,5 @@
 <item>
 <title>TecMundo (BR)</title>
 <thumbnail>https://yt3.ggpht.com/a/AATXAJz5J9mSUjBS1X7mbdH1K1POMNPuKzepYlMqmA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
-<jsonrpc>Plugin://plugin.video.youtube/user/baixaki/?page=0</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/user/baixaki/</jsonrpc>
 </item>
