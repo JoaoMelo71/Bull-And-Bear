@@ -229,3 +229,11 @@
 <jsonrpc>Plugin://plugin.video.youtube/playlist/FLZduWJp1TaJ9MrNnPI0KpKA/</jsonrpc>
 <fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
 </item>
+
+<item>
+<title>RAP Mendel (PT)</title>
+<link>ignoreme</link>
+<thumbnail>https://www.meiosepublicidade.pt/wp-content/uploads/2014/04/melhor-que-falecer-II.png</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL_t4G8t72lkStLLRHVrKszzp8uYzKuGfX/</jsonrpc>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+</item>
