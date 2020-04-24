@@ -144,9 +144,25 @@
 </item>
 
 <item>
-<title>Aprender a Investir (PT)</title>
+<title>Bolsa para principiantes (ES)</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/channel/UCR8TCqcAW5K188jlEdowYFA/</jsonrpc>
-<thumbnail>https://yt3.ggpht.com/a/AATXAJzF6TZF9moKCmjX4ptBzRsDBEydUUTyEhDu3g=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCzuUopbwNh8Sl5OcYsVgRjw/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJzQTOkE_vSN4cXHtDkJYHmYMhu1uL4lyU0_aw=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>O Primo Rico (BR)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/thigas/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJxAtRXL0KdRtb_SLE7ew2S4dHf4x2UM_YKm6A=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>O Primo Rico (BR)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/thigas/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJxAtRXL0KdRtb_SLE7ew2S4dHf4x2UM_YKm6A=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
 </item>
