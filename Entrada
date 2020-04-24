@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR red]Rádios[/COLOR]</name>
+<name>[COLOR deepskyblue]Rádios[/COLOR]</name>
 <thumbnail>https://brain-images-ssl.cdn.dixons.com/5/6/10115665/l_10115665_008.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JoaoMelo71/Hidra/master/Radios.xml</externallink>
 <fanart>https://akm-img-a-in.tosshub.com/indiatoday/anniv-42-things-dec25-18_647_121517051142.jpg</fanart>
@@ -12,7 +12,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red]Youtube Economia[/COLOR]</name>
+<name>[COLOR deepskyblue]Youtube Economia[/COLOR]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/a8/YouTube_Square.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/JoaoMelo71/Bull-And-Bear/master/YoutubeTrader</externallink>
 <fanart>https://dhoomtv.tv/wp-content/uploads/2016/06/spain.jpg</fanart>
@@ -24,7 +24,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red]TDT España[/COLOR]</name>
+<name>[COLOR deepskyblue]TDT España[/COLOR]</name>
 <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/71dISjt6x5L.png</thumbnail>
 <externallink>http://www.tdtchannels.com/lists/channels.m3u</externallink>
 <fanart>https://dhoomtv.tv/wp-content/uploads/2016/06/spain.jpg</fanart>
