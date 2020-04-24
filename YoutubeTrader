@@ -40,9 +40,17 @@
 
 
 <item>
-<title>La Bolsa para principiantes (ES)</title>
+<title>Aprende a Invertir (ES)</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/channel/UCK3viG6DcbeiljVErVo5RwA/</jsonrpc>
-<thumbnail>https://yt3.ggpht.com/a/AATXAJwUyWvf1IIMZHRGiR54UMMoAxY_lsVj9_A_WA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCweLxYG226BN_UEXmfzASDQ/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJyrP5K8E6TsN6j9ub2x2ctc2DLFXOsMxa759g=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>Aprende a Invertir (ES)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCweLxYG226BN_UEXmfzASDQ/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJyrP5K8E6TsN6j9ub2x2ctc2DLFXOsMxa759g=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
 </item>
