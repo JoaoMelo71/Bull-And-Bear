@@ -72,9 +72,17 @@
 </item>
 
 <item>
-<title>Diego Gutiérrez Pérez (ES)</title>
+<title>David Galán (ES)</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/user/DiemarTrading/</jsonrpc>
-<thumbnail>https://yt3.ggpht.com/a/AATXAJw072x3YQoVk9Ze4s7a5NUWne_ZzeWy8xSs0A=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/user/Johan18015/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJxyOPk2gAnmFUvMAR1Qt53TYav1lTDDYoex1A=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>David Galán (ES)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/Johan18015/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJxyOPk2gAnmFUvMAR1Qt53TYav1lTDDYoex1A=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
 </item>
