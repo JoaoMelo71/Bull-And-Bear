@@ -223,7 +223,7 @@
 </item>
 
 <item>
-<title>Favoritos Mendel (PT)</title>
+<title>Favoritos Mendel</title>
 <link>ignoreme</link>
 <thumbnail>https://norfipc.com/img/articulos/agregar-favoritos.jpeg</thumbnail>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/FLZduWJp1TaJ9MrNnPI0KpKA/</jsonrpc>
@@ -235,5 +235,29 @@
 <link>ignoreme</link>
 <thumbnail>https://www.meiosepublicidade.pt/wp-content/uploads/2014/04/melhor-que-falecer-II.png</thumbnail>
 <jsonrpc>Plugin://plugin.video.youtube/playlist/PL_t4G8t72lkStLLRHVrKszzp8uYzKuGfX/</jsonrpc>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+</item>
+
+<item>
+<title>Ver na TV Mendel</title>
+<link>ignoreme</link>
+<thumbnail>http://skockajtebudzet.rs/wp-content/uploads/2019/05/tv-servis-novi-sad.jpg</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL_t4G8t72lkQFX9zD2XvX0FxrIZt1ESmp/</jsonrpc>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+</item>
+
+<item>
+<title>Saúde</title>
+<link>ignoreme</link>
+<thumbnail>http://maicondacadeira.com/web/wp-content/uploads/2015/04/sa%C3%BAde.jpg</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLan-wYBHO6IKfeSSC4aE5rxG6iBqmLxZ9/</jsonrpc>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+</item>
+
+<item>
+<title>SPSS Estatistica por Rui Jesus [PT]</title>
+<link>ignoreme</link>
+<thumbnail>http://blog.portalpravaler.com.br/wp-content/uploads/2015/09/estatistica.jpg</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCKwu2X7pX_R31ZdvxxyGkIw/</jsonrpc>
 <fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
 </item>
