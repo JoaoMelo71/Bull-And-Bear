@@ -232,9 +232,81 @@
 </item>
 
 <item>
-<title>Aprender a Invertir con Alberto Horche (ES)</title>
+<title>Invertir Aprendiendo (ES)</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/channel/UCAZSeZ5NwyV-oDiJLB3alVQ/</jsonrpc>
-<thumbnail>https://yt3.ggpht.com/a/AATXAJxMWyOAP5_nd0x6SoVt1OsDA_Xf7OnGmVJCAw=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCAiaBf4MaxSLQhoKhnUeAyg/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJxWKg43op8Ty-yV2hJ3R6gg4u-eaHTSiCVkfA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>Visionarios Bolsa (ES)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCsAnw9U6Vc7XJJGpBc5L25A/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJz7lpY2k4FBhyUkbAz_VPPJ_LskT9h2q0Jgsg=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>Trading for Everyone TfE (ES)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC-RBeDPC-KQlwm-yUuC0xGg/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJzHt5gmm3CPaINOHJPxbG6wrXfZtLYLfN-3Jw=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>Vida Emprendedora (ES)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCz-0XLsTG8eQQz4TPxrWU0Q/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJwHNPOUIiySO9LAfloaJF1A161jFwRomfYUTA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>Hablemos de la bolsa (ES)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCyqZyOOEBaNyf2pCSGgd-ew/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJykoKB32KCNSTPbSvuGACSYt7tQBjlT1UFVNg=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>TRADING CERO (ES)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCMmmdQa46WMDIEY2cUxptRg/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJxwGgQVp7gi602I1b9M3cFwXvleDiirZQu1mg=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>WhiteTiger Tools (ES)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCCRMEAVLqcvQrQRkqK9VpaQ/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJwhi1mpam7wMVz9-etosU82qNIzxRS3I4IaIw=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>AT Bursatil (ES)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCvULpYqKnAcFQme0EY6lV3A/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJx71t3GwIGFIbPSNZIBdcAcadJLoEyAC2KRaw=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>AudioMercados (ES)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCPYd0ms-pTckwwTU4LvJmBw/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJzUNvDki7qD5yPK7KmXuX67GBuStgOsPu_IHA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>StockCharts (EUA)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/stockchartscom/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJz-W_3Q5XgIoUB_eQ0cWHwFj6iDPDBl353FYQ=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
 </item>
