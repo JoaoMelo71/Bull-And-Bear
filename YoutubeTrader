@@ -15,9 +15,17 @@
 </item>
 
 <item>
-<title>Rankia (ES)</title>
+<title>Banco de Investimento Global (PT)</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/user/RankiaCom/</jsonrpc>
-<thumbnail>https://yt3.ggpht.com/a/AATXAJz4A4r5pl1coujpqjWQzW6tXIE_p2vwYx6QWA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/user/canalbancobig/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJxuEjrxrkCoRc5o73UATZkToL4K-2H5fWp51Q=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>Banco de Investimento Global (PT)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/canalbancobig/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJxuEjrxrkCoRc5o73UATZkToL4K-2H5fWp51Q=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
 </item>
