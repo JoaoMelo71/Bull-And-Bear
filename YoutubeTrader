@@ -80,9 +80,49 @@
 </item>
 
 <item>
-<title>David Galán (ES)</title>
+<title>Value School (ES)</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/user/Johan18015/</jsonrpc>
-<thumbnail>https://yt3.ggpht.com/a/AATXAJxyOPk2gAnmFUvMAR1Qt53TYav1lTDDYoex1A=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCpLie5obXFdf8T0NG-IRHsA/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJzVN8bWtuEL52Jg20jvcr6uVD5qnwyJERuwdg=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>Dinâmica do Mercado (PT)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCsQh5M86UvwVZsrQZ7ZcGsg/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJwMBeJ1eGngKVTaekxSoPOWNlY7lyNIspIx=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>Tiago da Costa Cardoso (PT)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/tiagocostacardoso/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJyjUz4G8qHgVMwuaETQXUYOFNEQzcQEHvk9jQ=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>O Investidor Club (PT)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCs7nPunpnsxOYIeJmlnXZ_Q/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJyytFpGtoUluH5JqkcmfNbffmZP9AxY_uXWbg=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>Workolic (PT)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC5fJq7qrKG5TUILxOe1P9Pg/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJwvkD_n3JD-43JgPCDokjFD1qTv-T4demfPkg=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>Workolic (PT)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC5fJq7qrKG5TUILxOe1P9Pg/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJwvkD_n3JD-43JgPCDokjFD1qTv-T4demfPkg=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
 </item>
