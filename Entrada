@@ -14,9 +14,7 @@
 <channel>
 <name>[COLOR red]Youtube[/COLOR]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/a8/YouTube_Square.png</thumbnail>
-
 <externallink>https://raw.githubusercontent.com/JoaoMelo71/Hidra/master/Radios.xml</externallink>
-
 <fanart>https://img.ibxk.com.br/2017/10/06/06161753969300.jpg</fanart>
 <info>
 [COLOR peru] - Youtubers a Seguir - [/COLOR]</info>
@@ -29,7 +27,7 @@
 <name>[COLOR red]TDT España[/COLOR]</name>
 <thumbnail>https://images-eu.ssl-images-amazon.com/images/I/71dISjt6x5L.png</thumbnail>
 <externallink>http://www.tdtchannels.com/lists/channels.m3u</externallink>
-<fanart></fanart>
+<fanart>https://dhoomtv.tv/wp-content/uploads/2016/06/spain.jpg</fanart>
 <info>
 [COLOR peru] - Canais de TDT de Espanha - [/COLOR]</info>
 </channel>
