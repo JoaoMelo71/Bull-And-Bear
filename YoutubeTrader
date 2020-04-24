@@ -48,9 +48,17 @@
 </item>
 
 <item>
-<title>Aprende a Invertir (ES)</title>
+<title>Trader de Sucesso (BR)</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/channel/UCweLxYG226BN_UEXmfzASDQ/</jsonrpc>
-<thumbnail>https://yt3.ggpht.com/a/AATXAJyrP5K8E6TsN6j9ub2x2ctc2DLFXOsMxa759g=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCNtADhuqRn3me9b1EiuBQeg/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJz-SbYO-uD2KJW15LiGF-NlkcE8gHuzclXUDg=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>Trader de Sucesso (BR)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCNtADhuqRn3me9b1EiuBQeg/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJz-SbYO-uD2KJW15LiGF-NlkcE8gHuzclXUDg=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
 </item>
