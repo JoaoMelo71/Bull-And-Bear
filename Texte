@@ -13,4 +13,4 @@ plugin://plugin.video.youtube/play/?playlist_id=PLWiwiHMk0Ilxa6dgkDHI3jS6HCGN8Wn
 plugin://plugin.video.youtube/play/?playlist_id=PLWiwiHMk0Ilxa6dgkDHI3jS6HCGN8Wnth&order=$ORDER
 
 #EXTINF:-1 tvg-logo="https://ObrigadoPelaAjuda.jpg",Ajuda
-plugin://plugin.video.youtube/play/?playlist_id=PLcqMr0wdqEgjxq8BNfOpwMeS9oJggWdRd&play=1
+Plugin://plugin.vid_o.y_tube/?playlist_id=PLcqMr0wdqEgjxq8BNfOpwMeS9oJggWdRd&play=1
