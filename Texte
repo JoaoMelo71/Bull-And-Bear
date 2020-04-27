@@ -12,5 +12,5 @@ plugin://plugin.video.youtube/play/?playlist_id=PLWiwiHMk0Ilxa6dgkDHI3jS6HCGN8Wn
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/EcEMX-63PKY/maxresdefault.jpg",Beats 3
 plugin://plugin.video.youtube/play/?playlist_id=PLWiwiHMk0Ilxa6dgkDHI3jS6HCGN8Wnth&order=$ORDER
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/EcEMX-63PKY/maxresdefault.jpg",Beats 3
-plugin://plugin.video.youtube/?playlist_id=PLWiwiHMk0Ilxa6dgkDHI3jS6HCGN8Wnth&video_id=$VIDEOID
+#EXTINF:-1 tvg-logo="https://ObrigadoPelaAjuda.jpg",Ajuda
+plugin://plugin.video.youtube/play/?playlist_id=PLcqMr0wdqEgjxq8BNfOpwMeS9oJggWdRd&play=1
