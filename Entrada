@@ -56,3 +56,14 @@
 [COLOR peru] - Canais de Portugal - [/COLOR]</info>
 </channel>
 </channels>
+
+<channels>
+<channel>
+<name>[COLOR deepskyblue]Texte[/COLOR]</name>
+<thumbnail>https://pplware.sapo.pt/wp-content/uploads/2017/10/tdt_01-1-720x515.jpg</thumbnail>
+<externallink>https://gist.githubusercontent.com/jrpfeifer/147c9c21160cf006fcafa40747c319f9/raw/f1f4c900bba26e1a88bbfd42bfac58b87b2f160e/SUPER_TV</externallink>
+<fanart>https://2.bp.blogspot.com/-iXYIePkkWcQ/VwvL2_sZhmI/AAAAAAAAYsc/RG8UVs6Lz-Ybnp_9wXsEjhlUtXoA-ROiw/s1600/mira.jpg</fanart>
+<info>
+[COLOR peru] - Canais de Portugal - [/COLOR]</info>
+</channel>
+</channels>
