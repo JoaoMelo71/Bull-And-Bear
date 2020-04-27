@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_82sV2LQP6g/maxresdefault.jpg",Relaxing Sleep Music
-plugin://plugin.video.youtube/watch?v=-pa-Nl6R_XQ
+plugin://plugin.video.youtube/play/?video_id=hjIci91FRX4
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/EcEMX-63PKY/maxresdefault.jpg",Beats to sleep/chill to
 plugin://plugin.video.youtube/play/?video_id=EcEMX-63PKY
