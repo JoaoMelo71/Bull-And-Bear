@@ -4,7 +4,7 @@
 plugin://plugin.video.youtube/play/?video_id=hjIci91FRX4
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/EcEMX-63PKY/maxresdefault.jpg",Beats to sleep/chill to
-plugin://plugin.video.youtube/play/?video_id=EcEMX-63PKY
+plugin://plugin.video.youtube/play/?playlist_id=PLWiwiHMk0Ilxa6dgkDHI3jS6HCGN8Wnth
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_82sV2LQP6g/maxresdefault.jpg",Relaxing Sleep Music
 plugin://plugin.video.youtube/play/?video_id=_82sV2LQP6g
