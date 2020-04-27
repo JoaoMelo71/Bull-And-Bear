@@ -12,3 +12,5 @@ plugin://plugin.video.youtube/play/?playlist_id=PLWiwiHMk0Ilxa6dgkDHI3jS6HCGN8Wn
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/EcEMX-63PKY/maxresdefault.jpg",Beats 3
 plugin://plugin.video.youtube/play/?playlist_id=PLWiwiHMk0Ilxa6dgkDHI3jS6HCGN8Wnth=default
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/EcEMX-63PKY/maxresdefault.jpg",Beats 3
+plugin://plugin.video.youtube/?playlist_id=PLWiwiHMk0Ilxa6dgkDHI3jS6HCGN8Wnth=default
