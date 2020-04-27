@@ -10,7 +10,7 @@ plugin://plugin.video.youtube/play/?playlist_id=PLWiwiHMk0Ilxa6dgkDHI3jS6HCGN8Wn
 plugin://plugin.video.youtube/play/?playlist_id=PLWiwiHMk0Ilxa6dgkDHI3jS6HCGN8Wnth&play=1
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/EcEMX-63PKY/maxresdefault.jpg",Beats 3
-plugin://plugin.video.youtube/play/?playlist_id=PLWiwiHMk0Ilxa6dgkDHI3jS6HCGN8Wnth=default
+plugin://plugin.video.youtube/play/?playlist_id=PLWiwiHMk0Ilxa6dgkDHI3jS6HCGN8Wnth&order=$ORDER
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/EcEMX-63PKY/maxresdefault.jpg",Beats 3
-plugin://plugin.video.youtube/?playlist_id=PLWiwiHMk0Ilxa6dgkDHI3jS6HCGN8Wnth=default
+plugin://plugin.video.youtube/?playlist_id=PLWiwiHMk0Ilxa6dgkDHI3jS6HCGN8Wnth&video_id=$VIDEOID
