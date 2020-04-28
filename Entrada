@@ -9,6 +9,16 @@
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>[COLOR deepskyblue]Youtubers Gerais[/COLOR]</name>
+<thumbnail>https://telegrafi.com/wp-content/uploads/2018/03/netflix-3.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/JoaoMelo71/Bull-And-Bear/master/YoutubesGeral</externallink>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+<info>
+[COLOR peru] - Youtubers a Seguir - [/COLOR]</info>
+</channel>
+</channels>
 
 <channels>
 <channel>
@@ -21,18 +31,16 @@
 </channel>
 </channels>
 
-
 <channels>
 <channel>
-<name>[COLOR deepskyblue]Youtubers Gerais[/COLOR]</name>
-<thumbnail>https://telegrafi.com/wp-content/uploads/2018/03/netflix-3.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/JoaoMelo71/Bull-And-Bear/master/YoutubesGeral</externallink>
-<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+<name>[COLOR deepskyblue]TDT Portugal[/COLOR]</name>
+<thumbnail>https://pplware.sapo.pt/wp-content/uploads/2017/10/tdt_01-1-720x515.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/JoaoMelo71/Bull-And-Bear/master/TDT%20Portugal</externallink>
+<fanart>https://2.bp.blogspot.com/-iXYIePkkWcQ/VwvL2_sZhmI/AAAAAAAAYsc/RG8UVs6Lz-Ybnp_9wXsEjhlUtXoA-ROiw/s1600/mira.jpg</fanart>
 <info>
-[COLOR peru] - Youtubers a Seguir - [/COLOR]</info>
+[COLOR peru] - Canais de Portugal - [/COLOR]</info>
 </channel>
 </channels>
-
 
 <channels>
 <channel>
@@ -42,18 +50,6 @@
 <fanart>https://dhoomtv.tv/wp-content/uploads/2016/06/spain.jpg</fanart>
 <info>
 [COLOR peru] - Canais de TDT de Espanha - [/COLOR]</info>
-</channel>
-</channels>
-
-
-<channels>
-<channel>
-<name>[COLOR deepskyblue]TDT Portugal[/COLOR]</name>
-<thumbnail>https://pplware.sapo.pt/wp-content/uploads/2017/10/tdt_01-1-720x515.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/JoaoMelo71/Bull-And-Bear/master/TDT%20Portugal</externallink>
-<fanart>https://2.bp.blogspot.com/-iXYIePkkWcQ/VwvL2_sZhmI/AAAAAAAAYsc/RG8UVs6Lz-Ybnp_9wXsEjhlUtXoA-ROiw/s1600/mira.jpg</fanart>
-<info>
-[COLOR peru] - Canais de Portugal - [/COLOR]</info>
 </channel>
 </channels>
 
