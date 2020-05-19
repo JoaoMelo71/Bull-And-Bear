@@ -87,10 +87,18 @@
 </item>
 
 <item>
-<title>Clipset (PT)</title>
+<title>Clipset (Es)</title>
 <link>ignoreme</link>
 <thumbnail>https://yt3.ggpht.com/a/AATXAJw8Bmv_1gvT2Zu7Zc6thBLpa_nzpXCKlOS-jw=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <jsonrpc>Plugin://plugin.video.youtube/user/clipsetvideo/</jsonrpc>
+<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
+</item>
+
+<item>
+<title>Tecnonauta (Es)</title>
+<link>ignoreme</link>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJx2RAP6mJuEM_TSJTuYzOQIdWd13_aIQ1tiJA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/user/TecnonautaTV/</jsonrpc>
 <fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
 </item>
 
