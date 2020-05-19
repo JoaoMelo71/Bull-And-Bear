@@ -192,6 +192,14 @@
 </item>
 
 <item>
+<title>Dr. do Trade (BR)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC9TwjOwZzdmy6FtV17M0b_w/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJzg5vXwkcHf3G3zJZoDSHsgfGDnna1sezefKA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
 <title>Trabajar Desde Casa (ES)</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/user/trabajardesdecasasi/</jsonrpc>
@@ -280,6 +288,14 @@
 </item>
 
 <item>
+<title>SPARTAN BROKERS (ES)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCVLwu0umtTaQOPdBDEwdRHg/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJx2sYUeWBmM9ecOy-js-na784_hUbPTshFGLA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
 <title>WhiteTiger Tools (ES)</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/channel/UCCRMEAVLqcvQrQRkqK9VpaQ/</jsonrpc>
@@ -300,6 +316,14 @@
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/channel/UCPYd0ms-pTckwwTU4LvJmBw/</jsonrpc>
 <thumbnail>https://yt3.ggpht.com/a/AATXAJzUNvDki7qD5yPK7KmXuX67GBuStgOsPu_IHA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
+<title>Leonardo Pinna (It)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC2wwbwz5UHKw4CJKdJ6JqKw/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/a/AATXAJxkJ1jml9clrYrBOPVL4klb2WzvpexPXNZmHA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
 </item>
 
