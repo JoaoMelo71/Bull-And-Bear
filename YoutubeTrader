@@ -334,3 +334,11 @@
 <thumbnail>https://yt3.ggpht.com/a/AATXAJz-W_3Q5XgIoUB_eQ0cWHwFj6iDPDBl353FYQ=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
 </item>
+
+<item>
+<title>TradingView PC (PT)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/stockchartscom/</jsonrpc>
+<thumbnail>https://www.chinimandi.com/wp-content/uploads/2018/03/former-glencore-traders-launch-concentrates-trading-platform.jpg</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
