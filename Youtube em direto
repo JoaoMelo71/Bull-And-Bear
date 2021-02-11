@@ -10,6 +10,6 @@
 <title>Telemicro2 (RD)</title>
 <link>ignoreme</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AAUvwni-RqAXA9sIxrwd0hBjsZWrzu6Dg2JAlKXipFU3Eg=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
-<jsonrpc>Plugin://plugin.video.youtube/play/?video_id=uHejflzQCRA/</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/uHejflzQCRA/</jsonrpc>
 <fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
 </item>
