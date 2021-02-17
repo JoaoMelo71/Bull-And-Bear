@@ -1,15 +1,4 @@
-<item>
-<title>Telemicro (RD)</title>
-<link>ignoreme</link>
-<thumbnail>https://yt3.ggpht.com/ytc/AAUvwni-RqAXA9sIxrwd0hBjsZWrzu6Dg2JAlKXipFU3Eg=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
-<jsonrpc>Plugin://plugin.video.youtube/play/?video_id=lCKglAGKpFU/</jsonrpc>
-<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
-</item>
+#EXTM3U
 
-<item>
-<title>Telemicro0 (RD)</title>
-<link>ignoreme</link>
-<thumbnail>https://yt3.ggpht.com/ytc/AAUvwni-RqAXA9sIxrwd0hBjsZWrzu6Dg2JAlKXipFU3Eg=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
-<jsonrpc>plugin://plugin.video.youtube/play/?video_id=Mw0saM0ba2o/</jsonrpc>
-<fanart>https://vtv1.mediacdn.vn/fb_thumb_bn/2017/youtube1-1514434343647.gif</fanart>
-</item>
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni-RqAXA9sIxrwd0hBjsZWrzu6Dg2JAlKXipFU3Eg=s176-c-k-c0x00ffffff-no-rj-mo",Telemicro (RD)
+plugin://plugin.video.youtube/play/TBFpaMibWiA
