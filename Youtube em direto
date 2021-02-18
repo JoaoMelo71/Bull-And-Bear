@@ -17,7 +17,7 @@
 <item>
 <title>Bloomberg Global Financial News (EN)</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/video/BloombergTV/</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/user/Bloomberg/</jsonrpc>
 <thumbnail>https://yt3.ggpht.com/ytc/AAUvwnh6A8ynxR_x9SNF4j54cdKUIzwrvs9AOxpnC6M6=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://2.bp.blogspot.com/-iXYIePkkWcQ/VwvL2_sZhmI/AAAAAAAAYsc/RG8UVs6Lz-Ybnp_9wXsEjhlUtXoA-ROiw/s1600/mira.jpg</fanart>
 </item>
@@ -33,7 +33,7 @@
 <item>
 <title>América TV (ES)</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/channel/UC6NVDkuzY2exMOVFw4i9oHw/</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/user/AmericaTV/</jsonrpc>
 <thumbnail>https://yt3.ggpht.com/ytc/AAUvwnjo6fJy_Gnj7aJrm0IbS5Q7_XkAQy0tMBe3fUfh=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://2.bp.blogspot.com/-iXYIePkkWcQ/VwvL2_sZhmI/AAAAAAAAYsc/RG8UVs6Lz-Ybnp_9wXsEjhlUtXoA-ROiw/s1600/mira.jpg</fanart>
 </item>
@@ -41,7 +41,7 @@
 <item>
 <title>Diosas Paraguayas (ES)</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/channel/DiosasParaguayas/</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC4xeaAJV7Dz0PwOe5zVD4Cw/</jsonrpc>
 <thumbnail>https://yt3.ggpht.com/ytc/AAUvwngMu2A6sUyLr81ksosEn9HUxrX_7bt1_SSb30ZP7A=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://2.bp.blogspot.com/-iXYIePkkWcQ/VwvL2_sZhmI/AAAAAAAAYsc/RG8UVs6Lz-Ybnp_9wXsEjhlUtXoA-ROiw/s1600/mira.jpg</fanart>
 </item>
