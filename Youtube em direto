@@ -30,15 +30,3 @@
 <fanart>https://2.bp.blogspot.com/-iXYIePkkWcQ/VwvL2_sZhmI/AAAAAAAAYsc/RG8UVs6Lz-Ybnp_9wXsEjhlUtXoA-ROiw/s1600/mira.jpg</fanart>
 </item>
 
-
-
-// #EXTM3U
-
-// #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni-RqAXA9sIxrwd0hBjsZWrzu6Dg2JAlKXipFU3Eg=s176-c-k-c0x00ffffff-no-rj-mo",Telemicro (RD)
-// plugin://plugin.video.youtube/play/?video_id=TBFpaMibWiA
-
-// #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjTcFifUYJndaDyM29SYrtQFfIxETpyrJbk6vSL=s176-c-k-c0x00ffffff-no-rj-mo",CNN (BR)
-// plugin://plugin.video.youtube/play/?video_id=ajTUQhQDkoA
-
-// #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh6A8ynxR_x9SNF4j54cdKUIzwrvs9AOxpnC6M6=s176-c-k-c0x00ffffff-no-rj-mo",Bloomberg Global Financial News (EN)
-// plugin://plugin.video.youtube/play/?video_id=dp8PhLsUcFE
