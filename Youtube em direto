@@ -17,7 +17,7 @@
 <item>
 <title>Bloomberg Global Financial News (EN)</title>
 <link>ignoreme</link>
-<jsonrpc>Plugin://plugin.video.youtube/user/BloombergTV/</jsonrpc>
+<jsonrpc>Plugin://plugin.video.youtube/channel/BloombergTV/</jsonrpc>
 <thumbnail>https://yt3.ggpht.com/ytc/AAUvwnh6A8ynxR_x9SNF4j54cdKUIzwrvs9AOxpnC6M6=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <fanart>https://2.bp.blogspot.com/-iXYIePkkWcQ/VwvL2_sZhmI/AAAAAAAAYsc/RG8UVs6Lz-Ybnp_9wXsEjhlUtXoA-ROiw/s1600/mira.jpg</fanart>
 </item>
