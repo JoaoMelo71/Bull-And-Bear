@@ -39,6 +39,14 @@
 </item>
 
 <item>
+<title>MULTIMEDIOS (ES)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCo1nfa1JKNqtcUyLjLwTiIw/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/ytc/AAUvwngDfWG1G4I75zOLU0CBVCXXHeGizf8VWwWb6iR7tx4=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://2.bp.blogspot.com/-iXYIePkkWcQ/VwvL2_sZhmI/AAAAAAAAYsc/RG8UVs6Lz-Ybnp_9wXsEjhlUtXoA-ROiw/s1600/mira.jpg</fanart>
+</item>
+
+<item>
 <title>Diosas Paraguayas (ES)</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/channel/UC4xeaAJV7Dz0PwOe5zVD4Cw/</jsonrpc>
