@@ -17,7 +17,15 @@
 <item>
 <title>SOFT ROCK MUSIC</title>
 <link>ignoreme</link>
-<thumbnail>https://yt3.ggpht.com/ytc/AAUvwng6gXR6w3Ny95yCqIFvVTtbkJRgF5eesIOIhXjnPQ=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
-<jsonrpc>Plugin://plugin.video.youtube/channel/UCM8klG0KZcbyoAMwT9mkZDA/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/ytc/AAUvwnjhwUgSm6kWj_oW5fxSx6z4R4p__WwtPbbv860b=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/user/ladysmiles167/</jsonrpc>
+<fanart>https://ansiedade.org/wp-content/uploads/2018/10/musicas.jpg</fanart>
+</item>
+
+<item>
+<title>HALIDONMUSIC</title>
+<link>ignoreme</link>
+<thumbnail>https://yt3.ggpht.com/ytc/AAUvwnghow5jGnD8BcYFybMOgjYQxS_rp_83zh2VWIZHrQ=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/user/HALIDONMUSIC/</jsonrpc>
 <fanart>https://ansiedade.org/wp-content/uploads/2018/10/musicas.jpg</fanart>
 </item>
