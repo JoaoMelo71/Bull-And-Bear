@@ -44,6 +44,17 @@
 
 <channels>
 <channel>
+<name>[COLOR deepskyblue]Pek de Podcasts[/COLOR]</name>
+<thumbnail>https://149504724.v2.pressablecdn.com/wp-content/uploads/2019/06/tipos-de-podcasts.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/JoaoMelo71/Bull-And-Bear/master/PekPodcasts</externallink>
+<fanart>https://i1.wp.com/mastersauditoria.com.br/wp-content/uploads/2019/09/img-masters-podcast.jpeg</fanart>
+<info>
+[COLOR peru] - Mix de Podcasts - [/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
 <name>[COLOR deepskyblue]TDT Portugal[/COLOR]</name>
 <thumbnail>https://pplware.sapo.pt/wp-content/uploads/2017/10/tdt_01-1-720x515.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/JoaoMelo71/Bull-And-Bear/master/TDT%20Portugal</externallink>
