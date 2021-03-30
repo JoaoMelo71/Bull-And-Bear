@@ -1,8 +1,16 @@
 <item>
-<title>Pedro Albuquerque</title>
+<title>Venus Podcast</title>
 <link>ignoreme</link>
-<thumbnail>https://yt3.ggpht.com/ytc/AAUvwni4P5oO2SW2JNERAH_QRIG-CWayEJnC1sH6mAMd=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
-<jsonrpc>Plugin://plugin.video.youtube/channel/UCaqsar596wirupVb2Zc2i1g/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/ytc/AAUvwngINx-cECinEKcSkCNPpHb6L3gVl1utbxA5hi6h=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCTBhsXf_XRxk8w4rMj6WBOA/</jsonrpc>
+<fanart>https://i1.wp.com/mastersauditoria.com.br/wp-content/uploads/2019/09/img-masters-podcast.jpeg</fanart>
+</item>
+
+<item>
+<title>Flow Podcast</title>
+<link>ignoreme</link>
+<thumbnail>https://yt3.ggpht.com/ytc/AAUvwnjs2A34JZ0bd5aHW1aAikt1IkHaj6mqO_sQ_MPOdQ=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC4ncvgh5hFr5O83MH7-jRJg/</jsonrpc>
 <fanart>https://i1.wp.com/mastersauditoria.com.br/wp-content/uploads/2019/09/img-masters-podcast.jpeg</fanart>
 </item>
 
@@ -11,5 +19,37 @@
 <link>ignoreme</link>
 <thumbnail>https://yt3.ggpht.com/ytc/AAUvwni4P5oO2SW2JNERAH_QRIG-CWayEJnC1sH6mAMd=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
 <jsonrpc>Plugin://plugin.video.youtube/channel/UCaqsar596wirupVb2Zc2i1g/</jsonrpc>
+<fanart>https://i1.wp.com/mastersauditoria.com.br/wp-content/uploads/2019/09/img-masters-podcast.jpeg</fanart>
+</item>
+
+<item>
+<title>Pagode da Ofensa</title>
+<link>ignoreme</link>
+<thumbnail>https://yt3.ggpht.com/ytc/AAUvwnjxnHEfX7hgHhKj8lp6mO0K-bdWgl_HikzOrurGAQ=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/user/gosambaoficial/</jsonrpc>
+<fanart>https://i1.wp.com/mastersauditoria.com.br/wp-content/uploads/2019/09/img-masters-podcast.jpeg</fanart>
+</item>
+
+<item>
+<title>Clara Aguilar</title>
+<link>ignoreme</link>
+<thumbnail>hhttps://yt3.ggpht.com/ytc/AAUvwngjoa92Sn_CnHPLrRD8WD-8VwA0NqV1hxVR4gJbhQ=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC8grt7IKjozY52zyhegPfsw/</jsonrpc>
+<fanart>https://i1.wp.com/mastersauditoria.com.br/wp-content/uploads/2019/09/img-masters-podcast.jpeg</fanart>
+</item>
+
+<item>
+<title>Podcast Papagaio Falante</title>
+<link>ignoreme</link>
+<thumbnail>https://yt3.ggpht.com/ytc/AAUvwnh-3FeCqw65fTLtfPnW8gmgCfOByvzSljnamkP8=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UC70jPjnfhV9dlyDOjjIBUGA/</jsonrpc>
+<fanart>https://i1.wp.com/mastersauditoria.com.br/wp-content/uploads/2019/09/img-masters-podcast.jpeg</fanart>
+</item>
+
+<item>
+<title>My Pek</title>
+<link>ignoreme</link>
+<thumbnail>https://radiosudmanche.fr/wp-content/uploads/2020/11/l4iNSTANT-rAP.jpg</thumbnail>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL_t4G8t72lkQ1rKIyfL5hq4cG_LkoDz8b/</jsonrpc>
 <fanart>https://i1.wp.com/mastersauditoria.com.br/wp-content/uploads/2019/09/img-masters-podcast.jpeg</fanart>
 </item>
