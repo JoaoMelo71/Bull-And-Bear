@@ -128,6 +128,14 @@
 </item>
 
 <item>
+<title>Luís Correia Tavares (PT)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/channel/UCETGt4BWT1dfftE8AG2gpEw/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/ytc/AAUvwnj01Mqq9NMA0848br6DvbVg4JOeXcxtWwdvUd46=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
 <title>Workolic (PT)</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/channel/UC5fJq7qrKG5TUILxOe1P9Pg/</jsonrpc>
