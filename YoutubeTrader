@@ -31,6 +31,14 @@
 </item>
 
 <item>
+<title>ActivTrades Portugal (PT)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/activtradesportugal/</jsonrpc>
+<thumbnail>https://yt3.ggpht.com/ytc/AAUvwnhZ3ZkLXWQOkTXET0NR-HX5ZRlE4m1OzXksYfaAOA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart>https://s2.reutersmedia.net/resources/images/at/1556638989572.jpg</fanart>
+</item>
+
+<item>
 <title>EmprendeAprendiendo (ES)</title>
 <link>ignoreme</link>
 <jsonrpc>Plugin://plugin.video.youtube/channel/UCyM-2pRapEv6V2q7UNO9icg/</jsonrpc>
